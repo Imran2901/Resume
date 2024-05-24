@@ -1,0 +1,204 @@
+.page .container{
+    border: 1px solid;
+    width: 60%;
+    height: 80em;
+    margin: 150px auto;
+}
+.page .container .leftside{
+    border: 1px solid;
+    width: 19.7em;
+    height: 80em;
+    background:linear-gradient(green,yellow);
+}
+.page .container .rightside{
+    border: 1px solid;
+    width: 30em;
+    height: 80em;
+    float: right;
+    position: relative;
+    bottom: 80.1em;
+}
+.leftside .image img{
+    width: 50%;
+    height: 50%;
+    position: relative;
+    left: 60px;
+    top: 20px;
+    border-radius: 20px;
+ 
+}
+.name {
+    margin: 20px;
+    position: relative;
+}
+.name p{
+    position: relative;
+    bottom: 20px;
+}
+.information{
+    margin: 20px;
+}
+
+.information .contact .border{
+    position: relative;
+    border: 1px solid;   
+}
+.information .contact .number p{
+    margin: 20px;
+    position: relative;
+    bottom:36px;
+    left: 30px;
+}
+.information .mail p{
+    margin: 20px;
+    position: relative;
+    bottom:38px;
+    left: 30px;
+}
+.information .adress p{ 
+    margin: 20px;
+    position: relative;
+    bottom:38px;
+    left: 30px; 
+}
+
+/*Skills*/
+
+.skills .border{
+    border: 1px solid;
+}
+.skills .html{
+    display: flex;  
+    
+}
+.skills .css{
+    display: flex;
+}
+.skills .js{
+    display: flex;
+}
+.skills .python{
+    display: flex;
+}
+.html progress{
+    margin-left: 29px;
+}
+.css progress{
+    margin-left: 44px; 
+}
+.js progress{
+    margin-left: 55px;
+}
+.python progress{
+    margin-left: 5px;
+}
+
+/*Expertise*/
+
+.expertise .border{
+    border: 1px solid;
+}
+.expertise .list ul li{
+    padding:auto;
+ 
+} 
+
+
+/*Right side*/
+
+.rightside .education h2{
+    margin: 20px;
+}
+.rightside .education .border{
+    border: 1px solid;
+    margin: 20px;
+}
+.rightside .sslc{
+    margin: 20px;
+    position: relative;
+    bottom: 30px;
+}
+.rightside .sslc p{
+    position: relative;
+    left: 120px;
+    bottom: 40px;
+}
+.rightside .hsc{
+    margin: 20px;
+    position: relative;
+    bottom: 60px;
+}
+.rightside .hsc p{
+    position: relative;
+    left: 120px;
+    bottom: 40px;
+}
+.rightside .clg{
+    margin: 20px;
+    position: relative;
+    bottom: 80px;
+}
+.rightside .clg p{
+    position: relative;
+    left: 120px;
+    bottom: 40px;
+}
+.rightside .course{
+    margin: 20px;
+    position: relative;
+    bottom: 80px;
+}
+.rightside .course .courses{
+    border: 1px solid;
+}
+.rightside .course p{
+    position: relative;
+    left: 40px;
+}
+.rightside .profile{
+    margin: 20px;
+    position: relative;
+    bottom: 40px;
+}
+.rightside .border{
+    border: 1px solid;
+}
+.rightside .profile p{
+    position: relative;
+    left: 20px;
+}
+.rightside .hobbies{
+    margin: 20px;
+}
+.rightside .hobbies .cricket i{
+    position: relative;
+    padding: 20px; 
+}
+.rightside .cricket p{
+    position: relative;
+    left: 50px;
+    bottom: 53px;
+}
+.rightside .volley i{
+    position: relative;
+    left: 19px;
+    bottom: 40px;
+}
+.rightside .volley p{
+    position: relative;
+    bottom: 75px;
+    left: 50px;
+}
+.rightside .music i{
+    position: relative;
+    bottom: 60px;
+    left: 20px;
+}
+.rightside .music p{
+    position: relative;
+    bottom: 93px;
+    left: 50px;
+}
+
+
+
